@@ -1,0 +1,40 @@
+h1{
+    border-radius: 0%;
+    border: solid;
+    border-color: rgb(226, 43, 52);
+    border-style: groove;
+    padding: 30px;
+    margin: auto;
+    
+}
+p{
+    color: #e70ed5;
+}
+h3,p{
+    text-align: left;
+}
+div{
+    background-color: aqua;
+}
+*{
+    background-color: aqua;
+}
+.table:hover{
+    color: blue;
+    background-color: rgb(151, 180, 22);
+    display: block;
+}
+h1:hover{
+    background-color: yellow;
+    color:rgb(35, 9, 180)
+}
+h2:hover{
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    position: relative;
+    top: 10px;
+    margin: 10px;
+}
+}

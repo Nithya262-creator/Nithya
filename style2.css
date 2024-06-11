@@ -1,0 +1,20 @@
+.value{
+    background-color: aqua;
+    top: 20px;
+    position:absolute;
+    z-index: 1;
+}
+.method{
+    position: absolute;
+    top: 20px;
+    padding: 30px;
+    margin: 20px;
+    border: 1px solid black;
+    z-index: 2;
+}
+.image{
+    position: relative;
+    margin: 10px;
+    border: 1px solid black;
+    z-index: -1;
+}
